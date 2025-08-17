@@ -18,3 +18,4 @@
 冯记	fgji	1
 趟儿	ther	1
 真力	vfli	1
+三码	sjma	1
