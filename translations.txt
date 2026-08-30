@@ -1,0 +1,7 @@
+# 自定义候选窗翻译，优先于 ECDICT 大词库。
+# 格式：源词<TAB>译文
+# 源词含汉字则为中译英，否则为英译中。同一源词后写覆盖先写。
+华科	HUST
+华科大	Huazhong University of Science and Technology
+华中科大	Huazhong University of Science and Technology
+华中科技大学	Huazhong University of Science and Technology
