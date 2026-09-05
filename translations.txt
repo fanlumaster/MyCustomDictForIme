@@ -5,3 +5,24 @@
 华科大	Huazhong University of Science and Technology
 华中科大	Huazhong University of Science and Technology
 华中科技大学	Huazhong University of Science and Technology
+# 常用寒暄与礼貌用语。ECDICT 反查按英文词质量分排序，核心词（hello、thank you）
+# 常常排不过借词和俚语（ciao、hiya、howzit），导致候选窗给出的释义偏门。
+# 这一组是 MSIME-Windows#75 报告的错译及同类高频词。
+你好	hello
+您好	hello
+有没有	is there; do you have
+刚才	a moment ago; just now
+谢谢	thank you
+多谢	thanks a lot
+再见	goodbye
+早上好	good morning
+中午好	good afternoon
+晚上好	good evening
+晚安	good night
+对不起	sorry
+不好意思	excuse me; sorry
+没关系	it doesn't matter; never mind
+不客气	you're welcome
+欢迎	welcome
+请问	excuse me; may I ask
+再见了	goodbye
