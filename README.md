@@ -1,3 +1,12 @@
+> **本仓库已迁移并归档 / This repository has moved and is archived.**
+>
+> 当前源码与后续维护位于 [MSIME-Engine 的 `dictionary/custom/`](https://github.com/metasequoiaime/MSIME-Engine/tree/main/dictionary/custom)。
+> 请在 [MSIME-Engine](https://github.com/metasequoiaime/MSIME-Engine) 提交 Issue 和 Pull Request。
+> 完整提交历史已保留在 Engine 中；本仓库保留历史代码、标签与已有 Release，供旧版本追溯和下载。
+> 迁移来源见 [consolidation-sources.json](https://github.com/metasequoiaime/MSIME-Engine/blob/main/docs/consolidation-sources.json)。
+>
+> 以下为归档前的历史说明，当前构建与使用方式请以 Engine 中的文档为准。
+
 # 水杉输入法自定义词库
 
 这个仓库保存无法从通用词典稳定取得的人工维护条目。根目录保留现有自定义数据，其中
